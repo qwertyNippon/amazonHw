@@ -1,0 +1,33 @@
+a{
+    text-decoration: none;
+}
+
+.logo{
+    max-width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainCon{
+    justify-content: center;
+    max-width: 400px;
+    border: .5px solid gray;
+    padding: 30px;
+    margin: 20px;
+}
+
+.signIn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.continue{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: rgb(217, 186, 75);
+}
+
+/* .line{
+    display: inline;
+} */
